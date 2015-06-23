@@ -19,5 +19,10 @@
  * [Intro to data visualisation with d3.js](http://peterlozano.github.io/d3js-intro/#6) (Spanish)
 
 ### Blog Posts
+* [Timeline of Symfony in Drupal 8 related issues and posts](http://peterlozano.com/symfony-drupal-8-related-issues-posts)
+* [Drupalday Valencia 2012 review](http://www.bluespark.com/blog/drupalday-valencia-2012-review)
+* [New JavaScript libraries in Drupal 8](http://www.bluespark.com/blog/new-javascript-libraries-drupal-8)
+* [Our view of Drupal Commerce Developer Training](http://www.bluespark.com/blog/our-view-drupal-commerce-developer-training)
+* [Barcelona Drupal Developer Days 2012](http://www.bluespark.com/blog/barcelona-drupal-developer-days-2012)
 
 ### Other

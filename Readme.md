@@ -1,7 +1,11 @@
 # Bluespark Contributions
 
-* https://www.drupal.org/marketplace/bluespark
-* http://www.bluespark.com/drupalgive
+This is a compilation of all the opensource contributions to Drupal and other projects that Bluespark team members have been able to do during their time at Bluespark.
+
+You can also find more info at:
+
+* [Bluespark Drupalgive page](http://www.bluespark.com/drupalgive)
+* [Bluespark drupal.org marketplae page](https://www.drupal.org/marketplace/bluespark)
 
 People listed in order of join date.
 

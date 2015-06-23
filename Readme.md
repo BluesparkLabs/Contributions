@@ -15,6 +15,7 @@ People listed in order of join date.
 * [Pablo Cerda](pablo-cerda.md)
 * [Brant Schaltzer](brant-schaltzer.md)
 * [Pablo Lopez](pablo-lopez.md)
+* [Vincenzo De Naro Papa](vincenzo-denaropapa.md)
 
 ## Past bluesparkers
 
